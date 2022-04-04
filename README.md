@@ -10,27 +10,32 @@ Louis had the experience of raising funds to carry out the play "Fever" in which
 
 ### Analysis of Outcomes Based on Launch Date
 A. From the data set on the Kickstarter sheet, I built a Pivot Table
+
    ![Kickstarter Dataset](Kickstarter_sheet.png)
 
 B. Create the pivot table to display the results of the campaigns: successful, failed and canceled in relation to the launch dates
    
    In the filter area, I used Parent category and the column "Years" (this was generated using the formula years). In the row area, I selected the months of the column Data Created Conversion (taking out the years, quarters, and days). And finally in the value area I included the count of the column Outcomes.
+
    ![Pivot Table Fields](Pivot_Table_Fields.png)
+
 
 C. I applied in the Parent category filter the value "Theater".
    Finally resulting in the following table:
+   
    ![Pivot table](Pivot_table_final.png)
 
-   This is on the sheet Theater Outcomes by Launch Date [Theater Outcomes](Kickstarter_Challenge.xlsx).
+   This is on the sheet Theater Outcomes by Launch Date [Theater Outcomes](Kickstarter_Challenge.zip).
 
 D. Created the following chart of the pivot by clicking the option Pivot Chart
    Resulting in the following table: 
-   ![Chart](Pivot_Table_Chart.png)
+
+   ![Chart](Pivot_Table_Chart.PNG)
 
 
 ### Analysis of Outcomes Based on Goals
 A. I Created the sheet "Outcomes Based on Goals" to visualize the percentage of successful, failed, and canceled plays based on the funding goal amount.
-   ![Table Outcomes Goals](Table_Outcomes_Goals.png)
+   ![Table Outcomes Goals](Table_Outcomes_Goals.PNG)
 
 B. The columns created were Goal, Number Successful, Number failed, Number canceled, Total projects, Percentage Successful, Percentage failed and Percentage canceled.
    
@@ -42,10 +47,12 @@ B. The columns created were Goal, Number Successful, Number failed, Number cance
 
    The percentages columns (F,G and H) use a formula that takes the number of successful, failed and canceled projects (each respectively) divided by the total projects * 100.
 
-   Resulting in the following
+   Resulting in the following:
+
    ![Table Outcomes Goals](Table_outcomes_Goals2.png)
 
 C. I generated a graph of the Goal ranges and each of the result percentages:
+
     ![Graph Outcomes Goals](Outcomes Based on Goals.png)
 
 
@@ -60,6 +67,7 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
   I used this formula to get the each of the specific results: successful, failed and canceled. Again I use the internet to understand how the formula works
   COUNTIFS Function documentation [COUNTIFS Function](https://support.office.com/en-us/article/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842)
   I used this info and applied the formula in the sheet "Outcomes Based on Goals" and I got the count for each of the columns
+   
    ![Table Outcomes Goals](COUNTIFS.png)
 
 ## Results
@@ -80,8 +88,9 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
   One possible table that could help understand better the results could be a table with the Percentage of effectiveness of successful campaigns by month of launch. I decided to be included this because the raw number of total successful does not tell the whole story, that’s why we should look at a percentage rate and evaluate the months with this measure. Also, I would include a visualization of this same table with a graph showing the results by month, by doing this we can have a clear look at the results.
 
 - What are some other possible tables and/or graphs that we could create?
+
   **Percentage of effectiveness of successful campaigns by month of launch**
-   ![Possible Table](Successful Rates.png)
+   ![Possible Table](Successful Rates.PNG)
 
   **Graph Percentage of effectiveness for each month**
-    ![Graph](Sucessful Rate Chart.png)
+    ![Graph](Sucessful Rate Chart.PNG)
