@@ -97,12 +97,12 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
 **- What are some other possible tables and/or graphs that we could create?**
 
 
-   **-Percentage of effectiveness of successful campaigns by month of launch**
+   1. Percentage of effectiveness of successful campaigns by month of launch** 
    
 
    ![Possible Table](Successful.png)
 
 
 
-   **-Graph Percentage of effectiveness for each month**
+   2. Graph Percentage of effectiveness for each month**
     ![Graph](Sucessful_RateChart.png)
