@@ -54,7 +54,7 @@ B. The columns created were Goal, Number Successful, Number failed, Number cance
 
 C. I generated a graph of the Goal ranges and each of the result percentages:
 
- ![Graph Outcomes Goals](Outcomes Based on Goals.png)
+  ![Graph Outcomes Goals](Outcomes_Based_on_Goals.png)
 
    
 
@@ -77,11 +77,13 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
 ## Results
 
 **- What are two conclusions you can draw about the Outcomes based on Launch Date?**
+
   By reviewing the results of the sheet "Theater Outcomes by Launch Date", we can conclude the following:
    - In the month of May, the highest number of successful campaigns was obtained with a total of 111 projects. It is worth mentioning that considering a total of 166 campaigns, it gives us an effectiveness percentage of 67%, being the highest of all months.
    - In the month of December, the least number of successful results was recorded with 37 out of a total of 75, which gives us an effectiveness percentage of 49%, being the lowest of all months.
 
 **- What can you conclude about the Outcomes based on Goals?**
+
   By reviewing the results of the sheet “Outcomes based on Goals”, we can conclude the following:
   
   With a goal of less than 1,000 dollars, there was a total of 186 projects, of which 141 were successful. This gave us an effectiveness percentage of 76% being the highest among the rest of the ranges.
@@ -89,12 +91,18 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
 
 
 **- What are some limitations of this dataset?**
+
   One possible table that could help understand better the results could be a table with the Percentage of effectiveness of successful campaigns by month of launch. I decided to be included this because the raw number of total successful does not tell the whole story, that’s why we should look at a percentage rate and evaluate the months with this measure. Also, I would include a visualization of this same table with a graph showing the results by month, by doing this we can have a clear look at the results.
 
 **- What are some other possible tables and/or graphs that we could create?**
 
-  **Percentage of effectiveness of successful campaigns by month of launch**
-   ![Possible Table](Successful Rates.PNG)
 
-  **Graph Percentage of effectiveness for each month**
-    ![Graph](Sucessful Rate Chart.PNG)
+   **-Percentage of effectiveness of successful campaigns by month of launch**
+   
+
+   ![Possible Table](Successful.png)
+
+
+
+   **-Graph Percentage of effectiveness for each month**
+    ![Graph](Sucessful_RateChart.png)
