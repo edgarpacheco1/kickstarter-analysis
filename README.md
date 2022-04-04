@@ -94,7 +94,7 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
 
   One possible table that could help understand better the results could be a table with the Percentage of effectiveness of successful campaigns by month of launch. I decided to be included this because the raw number of total successful does not tell the whole story, that’s why we should look at a percentage rate and evaluate the months with this measure. Also, I would include a visualization of this same table with a graph showing the results by month, by doing this we can have a clear look at the results.
 
-**- What are some other possible tables and/or graphs that we could create?**
+**- What are some other possible tables and/or graphs that we could create?
 
 
    1. Percentage of effectiveness of successful campaigns by month of launch** 
@@ -104,5 +104,5 @@ C. I generated a graph of the Goal ranges and each of the result percentages:
 
 
 
-   2. Graph Percentage of effectiveness for each month**
+   2. Graph Percentage of effectiveness for each month
     ![Graph](Sucessful_RateChart.png)
