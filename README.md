@@ -10,9 +10,9 @@ Louis had the experience of raising funds to carry out the play "Fever" in which
 
 ### Analysis of Outcomes Based on Launch Date
 A. From the data set on the Kickstarter sheet, I built a Pivot Table
-<p align= "center">
+ 
    ![Kickstarter Dataset](Kickstarter_sheet.png)
-</p>
+ 
 
 B. Create the pivot table to display the results of the campaigns: successful, failed and canceled in relation to the launch dates
    
